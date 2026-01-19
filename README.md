@@ -55,10 +55,10 @@ python3 main.py
 Jogo-da-Forca-em-Python/
 ├── assets/
 │   └── Jogo-da-Forca-Terminal.png
-├── main.py
-├── words.txt
 ├── LICENSE
-└── README.md
+├── README.md
+├── main.py 
+└── words.txt
 ```
 
 ## Licença 
