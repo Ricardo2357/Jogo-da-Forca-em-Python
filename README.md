@@ -44,10 +44,10 @@ python3 main.py
 
 ## Como Utilizar
 
-1. 
-2. 
-3. 
-4. 
+1. Uma palavra secreta será escolhida automaticamente;
+2. O jogo exibirá a palavra oculta, representada por traços (`_`), indicando a quantidade de letras;
+3. Digite uma letra no terminal para fazer uma tentativa;
+4. O jogo informará se a letra digitada está correta ou não e atualizará a palavra.
 
 ## Estrutura do Projeto
 
