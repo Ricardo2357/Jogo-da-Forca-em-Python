@@ -1,5 +1,5 @@
 # Jogo-da-Forca-em-Python
-Este projeto consiste em um jogo da forca desenvolvida em Python, executado inteiramente no terminal. O programa apresenta um menu de opções, permitindo que o usuário escolha a operação desejada, insira as opções e obtenha o resultado. O jogo apresenta um menu interativo que exibe informações importantes durante a partida, como letras já jogadas e número de tentativas restantes.
+Este projeto consiste em um jogo da forca desenvolvida em Python, executado inteiramente no terminal. O programa apresenta um menu de opções, permitindo que o usuário escolha a operação desejada, insira as opções e obtenha o resultado. Além disso, há um menu interativo que exibe informações importantes durante a partida, como letras já jogadas e número de tentativas restantes.
 
 <p align = "left">
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJuK0BLD455HWC3skdgibUSnqDk16e97_Pg&s" alt = "Banner do Jogo da Forca" width = "350">
