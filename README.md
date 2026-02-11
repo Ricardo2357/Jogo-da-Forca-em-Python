@@ -7,7 +7,7 @@ Este projeto consiste em um jogo da forca desenvolvida em Python, executado inte
 
 ## Demonstração
 
-![Imagem do Terminal](assets/Jogo-da-Forca-Terminal.png)
+![Imagem do Terminal](images/terminal-jogo-da-forca.png)
 
 Interface do jogo da forca em execução no terminal.
 
