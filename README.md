@@ -53,8 +53,8 @@ python3 main.py
 
 ```
 Jogo-da-Forca-em-Python/
-├── assets/
-│   └── Jogo-da-Forca-Terminal.png
+├── images/
+│   └── terminal-jogo-da-forca.png
 ├── LICENSE
 ├── README.md
 ├── main.py 
